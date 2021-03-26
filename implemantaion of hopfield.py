@@ -2,14 +2,14 @@
 """
 Created on Thu Dec 19 22:41:48 2019
 
-@author: sakin
+@author: Mahsa
 """
 
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec 18 15:47:18 2019
 
-@author: sakin
+@author: Mahsa
 """
 
 import numpy as np
